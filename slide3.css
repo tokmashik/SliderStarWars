@@ -1,0 +1,31 @@
+/* R2-D2 */
+
+.container3 {
+    padding-top: 80px;
+    margin-left: 180px;
+    color: #83A9F2;
+    display: flex;
+}
+
+.t3 {
+    margin:1px 21px 2px 22px;
+}
+
+.btn3 {
+    color: #fff;
+    background: #83A9F2;
+    font-size: 20px;
+    padding: 13px 45px;
+    border-radius: 30px;
+    text-decoration: none;
+	cursor:pointer;
+}
+
+.overlay {
+	position: absolute;
+	width: 100%;
+	height: 100vh;
+	top: 0;
+	left: 0;
+	display: none;
+}

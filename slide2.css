@@ -1,0 +1,155 @@
+/* C-3PO */
+
+.container2 {
+    /* width: 1300px; */
+    padding-top: 80px;
+    margin-left: 180px;
+    color: #F2B111;
+    display: flex;
+}
+
+.wr-content {
+    display: flex;
+}
+
+.content {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.nav {
+    margin-bottom: 300px;
+}
+
+.offer {
+    display: flex;
+    margin-bottom: 31px;
+}
+
+.item {
+    background-color: #fff;
+    font-size: 64px;
+    width: 81px;
+    height: 81px;
+    font-weight: 700;
+}
+
+.t2 {
+    margin:1px 22px 2px 21px;
+}
+
+.cont-text2 {
+    margin: 0px 0px 0px 24px;
+}
+
+.tc {
+    font-size: 17px;
+}
+
+.c3po {
+    font-size: 28px;
+    color: #fff;
+    position: absolute;
+}
+
+.text_discr {
+    font-weight: 400;
+    color: #fff;
+    font-size: 16px;
+    margin-right: 180px;
+    margin-top: 250px;
+}
+
+.offer2 {
+    font-size: 14px;
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.item2 {
+    background-color: #F2B111;
+    font-size: 68px;
+    width: 81px;
+    height: 81px;
+}
+
+.tplus {
+    margin:0px 20px 4px 21px;
+    color: #fff;
+    font-weight: 400;
+}
+
+.cont-textplus {
+    margin: 0px 0px 0px 24px;
+}
+
+.t2plus {
+    font-size: 17px;
+}
+
+.cplus {
+    font-size: 17px;
+    color: #fff;
+}
+
+.btn2 {
+    color: #fff;
+    background: #F2B111;
+    font-size: 20px;
+    padding: 13px 45px;
+    border-radius: 30px;
+    text-decoration: none;
+    cursor:pointer;
+}
+
+.overlay1 {
+	position: absolute;
+	width: 100%;
+	height: 100vh;
+	top: 0;
+	left: 0;
+	display: none;
+}
+
+/* .popup1 {
+	position: absolute;
+	width: 500px;
+	left: 84%;
+	top: 20%;
+	transform: translate(-50%, -50%);
+	padding: 40px;
+	box-sizing: border-box;
+	background-color: #00000093;
+	color: rgb(255, 255, 255);
+} */
+
+/* .close-popup1 {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	width: 23px;
+	height: 23px;
+    cursor: pointer;
+}
+
+.close-popup1:before {
+	content: '';
+	background-color: #fff;
+	position: absolute;
+	height: 1px;
+	width: 31px;
+	top: 11px;
+	left: -4px;
+	transform: rotate(-45deg);
+}
+
+.close-popup1:after {
+	content: '';
+	background-color: #fff;
+	position: absolute;
+	height: 1px;
+	width: 31px;
+	top: 11px;
+	transform: rotate(45deg);
+	left: -4px;
+} */
